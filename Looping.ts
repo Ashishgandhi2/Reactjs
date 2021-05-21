@@ -16,3 +16,12 @@ for(let arr of array3) {
    sum  = sum + arr;
 }
 console.log("Sum is:-",sum);
+
+
+function E_mail(mail_id:string) { 
+  
+    console.log("Email Id: ",mail_id); 
+    }
+    
+    let b="abc@gmail.com";
+    E_mail(b);
