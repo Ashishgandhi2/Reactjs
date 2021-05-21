@@ -15,3 +15,8 @@ for (var _a = 0, array3_1 = array3; _a < array3_1.length; _a++) {
     sum = sum + arr;
 }
 console.log("Sum is:-", sum);
+function E_mail(mail_id) {
+    console.log("Email Id: ", mail_id);
+}
+var b = "abc@gmail.com";
+E_mail(b);
