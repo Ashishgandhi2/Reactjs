@@ -8,3 +8,9 @@ console.log(mobile.push("oppo"));               //Adding Array Elements
 console.log(mobile);                            //Access the Full Array
 console.log(typeof(mobile));                    //How to Recognize an Array
 console.log(Array.isArray(mobile));             // Check that is this array or not
+console.log(mobile.pop());                      //Popping
+console.log(mobile);                            //Access the elements
+console.log(mobile.shift());                    //Shifting Element
+console.log(mobile);                             //Access the elements
+console.log(mobile.unshift("Lava"));            //unshift element means add new elements
+console.log(mobile);
