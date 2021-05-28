@@ -1,11 +1,11 @@
 let a =30;
-let b =100;
+let c=100;
 
-if( a==30 && b==100)
+if( a==30 && c==100)
 {
     console.log("True value");
 }
-else if(a==20 && b!=30)
+else if(a==30 && c!=30)
 {
     console.log("Value B is not matched");
 }
