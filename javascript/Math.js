@@ -1,1 +1,0 @@
-console.log(Math.method(5.5));
