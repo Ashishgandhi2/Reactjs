@@ -1,7 +1,7 @@
-let a =20;
+let a =30;
 let b =100;
 
-if( a==20 && b==100)
+if( a==30 && b==100)
 {
     console.log("True value");
 }
