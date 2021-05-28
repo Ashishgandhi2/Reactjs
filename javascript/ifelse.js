@@ -5,7 +5,7 @@ if( a==30 && c==100)
 {
     console.log("True value");
 }
-else if(a==30 && c!=30)
+else if(a==30 && c!=40)
 {
     console.log("Value B is not matched");
 }
