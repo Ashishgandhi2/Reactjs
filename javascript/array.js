@@ -13,4 +13,4 @@ console.log(mobile);                            //Access the elements
 console.log(mobile.shift());                    //Shifting Element
 console.log(mobile);                             //Access the elements
 console.log(mobile.unshift("Lava"));            //unshift element means add new elements
-console.log(mobile);
+console.log(mobile[2]);
