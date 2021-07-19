@@ -11,10 +11,10 @@ function commas(input, currency)
        
         else
           {
-            console.log(`{currency} is not identify `);
+            console.log(`{cura} is not identify `);
           }
   }
-    
+     
     
 
 let  a=16777;
